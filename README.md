@@ -7,7 +7,7 @@ This is my website in progress. I've gotten tired of having bits of me spread ar
 Through this experiment, I want to achieve 2 outcomes:
 
 1. Create a functional personal website
-2. Learn HTML, CSS and JavaScript
+2. Learn HTML and CSS
 
 ## Resources I'm using
 
