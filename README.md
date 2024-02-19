@@ -20,8 +20,9 @@ Through this experiment, I want to achieve 2 outcomes:
   - I am currently following their <a href="https://badwebsite.club/webdev-bootcamp-jan-2024.html" target="_blank">Web Development bootcamp</a> as I go through FCC.
   - They're also running a <a href="https://badwebsite.club/js-bootcamp-feb-2024.html" target="_blank">JavaScript bootcamp</a> at the moment which I hope to catch up with once I'm done with HTML/CSS.
 
-## Where to find me
+## What I'm struggling with currently
 
-Click <a href="https://github.com/tasminemma/tasminemma.github.io/" target="_blank">here</a> to access the repository behind this website on Github. Feel free to check out <a href="https://github.com/tasminemma" target="_blank">my profile</a> while you're at it.  
+- HTML is cumbersome! I'm used to writing mostly in Markdown and have yet to see what learning HTML above writing in Markdown and converting it is good for. In the FCC Cat Photos App challenge, there were buttons I could code with HTML that Markdown wouldn't make, but is there a value beyond that?
 
-Full disclosure: I have more private repositories than public, as most of my repos are my plain text notes. I've also recently decided to make my contributions to my private repos public because I think the green thing is mega cool. 
+  - More importantly, must I write everything in HTML for my site to run without Jekyll?
+ 
