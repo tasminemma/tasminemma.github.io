@@ -1,6 +1,6 @@
 # Welcome to [tasminemma.github.io](https://tasminemma.github.io) !
 
-I am currently learning how to build a website. I've gotten tired of having my data spread around and held hostage by different social medias like Instagram and Linkedin, so I'm embarking on a journey to make my own. It's going to be great. 😸
+I am currently learning how to build a website. I've gotten tired of having bits of me spread around and held hostage by different social medias like Instagram and Linkedin, so I'm embarking on a journey to make my own. It's going to be great. 😸
 
 ## Aims
 
