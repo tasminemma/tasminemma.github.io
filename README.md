@@ -1,4 +1,4 @@
-# Welcome to my website! (or, its repository)
+# Welcome to [my website](https://tasminemma.github.io)! (or, its repository)
 
 This is my website in progress. I've gotten tired of having bits of me spread around and held hostage by different social medias like Instagram and Linkedin, so I'm embarking on a journey to make my own space on the internet where <em>I</em> control the narrative. I'll document my progress as much as possible through this process; feel free to follow along! 😸
 
